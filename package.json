@@ -1,10 +1,5 @@
 {
   "name": "node-js-getting-started",
-"main": "index.js",
-  "scripts": {
-    "start": "node server.js",
-    "dev": "nodemon server.js -- "
-  },
   "dependencies": {
       "@cloudbase/node-sdk": "^2.4.4",
     "leancloud-storage": "^3.11.0",
